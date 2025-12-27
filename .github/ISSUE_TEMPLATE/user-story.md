@@ -1,12 +1,28 @@
 ---
-name: 'Story template '
-about: User Story Issue Template
-title: ''
-labels: ''
-assignees: ''
+name: User Story
+about: Create a user story using the standard Agile format
+title: "[Story] "
+labels: enhancement
+assignees: ""
+---
+
+## 🧩 User Story
+
+**As a**  
+**I need**  
+**So that**
 
 ---
 
-As a <role/persona>
-I need <what capability is required>
-So that <business value / benefit>
+## 📝 Description
+(Provide additional context, business rules, or assumptions)
+
+---
+
+## ✅ Acceptance Criteria
+
+```gherkin
+Given 
+When 
+Then 
+```
